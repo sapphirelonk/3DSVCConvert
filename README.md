@@ -22,6 +22,7 @@ Probably not.
 There were mentions on GBAtemp about the header requiring some more values on which I wasn't able to find any more information.  
 If these scripts fit your purpose or work with your Wii-U-use-case: That's great!  
 However, I am pretty sure, they're not going to work and I currently do not have a Wii-U to test this on.  
+
 [//]: #
 [gbatemp]: <https://gbatemp.net/threads/research-snes-virtual-console-save-files.498334/>
 [Python3]: <https://www.python.org/downloads/>
