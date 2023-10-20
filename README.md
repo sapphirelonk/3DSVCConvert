@@ -9,7 +9,7 @@ Please note, that in any case, I am not responsible for any damage!
 2. Download the raw python files from this repository.
 3. Place the files in the same directory as these scripts.
 4. Open the files in a text editor of your choice and change the user-variables, adding the file names (between the double qoutes).
-5. Run the script for the desired conversion(s).
+5. Run the script(s) for the desired conversion(s).
 
 #### Will this work with my Wii-U Virtual-Console-titles?
 Probably not.  
